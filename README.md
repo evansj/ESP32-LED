@@ -1,5 +1,6 @@
 # ESP32-LED (WS2812/etc) Project
 
+Please be aware that the master for this project is now on [Codeberg](https://codeberg.org/RevK/ESP32-LED)
 
 ## Trademark
 
